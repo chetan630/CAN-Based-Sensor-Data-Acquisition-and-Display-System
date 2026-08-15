@@ -1,0 +1,58 @@
+# ==========================================
+# Keil / ARM Compiler Build Files
+# ==========================================
+
+*.axf
+*.hex
+*.bin
+*.elf
+*.map
+*.lst
+*.htm
+*.lnp
+*.dep
+*.d
+*.crf
+*.o
+*.obj
+
+# Keil generated folders
+Listings/
+Objects/
+Debug/
+Release/
+
+# ==========================================
+# Keil µVision User / Workspace Files
+# ==========================================
+
+*.uvguix.*
+*.uvoptx
+
+# Keep the main Keil project file
+# *.uvprojx   <-- DO NOT ignore this
+
+# ==========================================
+# Backup / Temporary Files
+# ==========================================
+
+*.bak
+*.tmp
+*.log
+*.swp
+*.orig
+*.backup
+*~
+
+# ==========================================
+# Operating System Files
+# ==========================================
+
+.DS_Store
+Thumbs.db
+
+# ==========================================
+# VS Code
+# ==========================================
+
+.vscode/
