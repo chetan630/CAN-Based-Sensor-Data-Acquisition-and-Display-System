@@ -153,16 +153,12 @@ The complete sensor-to-display data path was implemented:
 
 ## 7. Performance Results
 
-The project description reports the following target/observed performance values:
-
 | Parameter | Reported Result |
 |---|---:|
 | Distance measurement accuracy | ~3 mm |
 | Maximum tested range | ~4 m |
 | CAN data transfer latency | <150 ms |
 | I²C clock frequency | 100 kHz |
-
-These values should be interpreted as project test results rather than guaranteed specifications of the individual components.
 
 ---
 
